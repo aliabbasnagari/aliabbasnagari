@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AliAbbas-Nagari
 - 👀 I’m interested in Computer Sciences
 - 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on other content github
 - 📫 Contact me: +923144101585
 
 <!---

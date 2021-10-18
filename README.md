@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Sciences
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on other content github
-- 📫 Contact me: +923144101585
+- 📫 Contact me: aliabbasinayatali@gmail.com
 
 <!---
 AliAbbas-Nagari/AliAbbas-Nagari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

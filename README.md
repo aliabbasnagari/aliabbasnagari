@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliAbbasNagari
 - 👀 I’m interested in Computer Sciences
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Cross Platform APP Development
 - 💞️ I’m looking to collaborate on other content github
 - 📫 Contact me: aliabbasinayatali@gmail.com
 

@@ -1,4 +1,4 @@
-# HI!
+# Hi!
 
 My name is **Ali Abbas** and I am passionate about **Computer Sciences**. I am currently learning **App and Game Development** and am always looking for opportunities to collaborate on other projects. My goal is to create innovative and engaging apps and games that provide a great user experience.
 

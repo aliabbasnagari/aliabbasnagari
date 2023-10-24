@@ -16,6 +16,9 @@ You can also find me on :
 - [Linkedin](https://www.linkedin.com/in/alinagari/)
 - [Facebook](https://www.facebook.com/aliinagari/)
 
+## Badges
+[![An image of @aliabbasnagari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aliabbasnagari)](https://holopin.io/@aliabbasnagari)
+
 ## Let's Connect and Create something awesome together! 🚀
 
 I am always eager to explore new ideas and technologies, so if you have something interesting to share or just want to say hi, feel free to reach out. Let's create something awesome together!

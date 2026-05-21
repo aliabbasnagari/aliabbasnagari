@@ -87,11 +87,7 @@ focus = [
 ---
 
 # Developer Philosophy
-
-> Build things that scale.
-> Keep systems clean.
-> Automate repetitive work.
-> Learn continuously.
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 

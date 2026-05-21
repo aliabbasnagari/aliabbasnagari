@@ -1,30 +1,107 @@
-# Hi!
+# 👋 Hey, I'm Ali Abbas
 
-My name is **Ali Abbas** and I am passionate about **Computer Sciences**. I am currently learning **App and Game Development** and am always looking for opportunities to collaborate on other projects. My goal is to create innovative and engaging apps and games that provide a great user experience.
+### AI Engineer • Full-Stack Developer • Backend Builder
 
-## My Projects 💻
-In my profile, you will find a variety of projects that I have worked on, including personal projects as well as collaborations with other developers. Feel free to take a look and give me feedback on what you think.
+```bash id="qo5x0p"
+Building scalable systems, AI-powered applications,
+and clean developer experiences.
+```
 
-## Collaborations 🤝
-I am always open to feedback and suggestions, so feel free to reach out if you have any ideas or want to collaborate on a project.
+---
 
-Thank you for visiting my profile and I look forward to connecting with you!
+# 🚀 About Me
 
-Please don't hesitate to reach out if you have any questions or ideas for collaborations.
+*  AI Engineer & Full-Stack Developer from Pakistan
+*  Currently building healthcare applications at scale
+*  Passionate about Backend Architecture & Distributed Systems
+*  Working with LLMs, RAG Pipelines & AI integrations
+*  Mobile development enthusiast
+*  Strong believer in clean architecture & scalable design
 
-You can also find me on : 
-- [Linkedin](https://www.linkedin.com/in/alinagari/)
-- [Facebook](https://www.facebook.com/aliinagari/)
+---
 
-## Badges
-[![An image of @aliabbasnagari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aliabbasnagari)](https://holopin.io/@aliabbasnagari)
+# 💻 Tech Stack
 
-## Let's Connect and Create something awesome together! 🚀
+## 🚀 Full-Stack
 
-I am always eager to explore new ideas and technologies, so if you have something interesting to share or just want to say hi, feel free to reach out. Let's create something awesome together!
+```txt id="4v9t9m"
+Django • Flask • MERN • Angular • React
+REST APIs • GraphQL • RBAC
+PostgreSQL • MySQL • MongoDB
+Microservices • Docker • CI/CD
+AWS • Google Cloud
+```
 
+## 🤖 AI / ML
 
-<!---
-AliAbbas-Nagari/AliAbbas-Nagari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```txt id="y0y6l9"
+PyTorch • TensorFlow • scikit-learn
+Pandas • NumPy
+LLMs • Prompt Engineering
+RAG Pipelines • Vector Databases
+```
+
+## 📱 Mobile
+
+```txt id="b6rj1x"
+Kotlin • Android SDK • Firebase
+MVVM Architecture • Flutter
+```
+
+---
+
+# ⚙️ Current Focus
+
+```python id="6g4z4f"
+focus = [
+    "AI-powered applications",
+    "Scalable backend systems",
+    "LLM integrations",
+    "Clean architecture",
+    "Performance optimization"
+]
+```
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliabbasnagari\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabbasnagari\&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aliabbasnagari)
+
+---
+
+# 🧠 Developer Philosophy
+
+> Build things that scale.
+> Keep systems clean.
+> Automate repetitive work.
+> Learn continuously.
+
+---
+
+# ☕ Fun Fact
+
+```cpp id="2txfwo"
+while(coding)
+{
+    coffee++;
+    bugs--;
+}
+```
+
+---
+
+# 📫 Connect With Me
+
+* 💼 LinkedIn
+* 🌐 Portfolio
+* 📧 [alinagarkuz@gmail.com](mailto:alinagarkuz@gmail.com)
+
+```txt id="2g2u6g"
+Always open to collaboration,
+interesting ideas, and AI projects.
+```

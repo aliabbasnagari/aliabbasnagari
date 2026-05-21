@@ -1,5 +1,5 @@
 # Ali Abbas
-### AI Engineer • Full-Stack Developer • Backend Builder
+### AI Engineer • Full-Stack Developer • Backend Developer
 
 ```bash id="qo5x0p"
 Building scalable systems, AI-powered applications, and clean developer experiences.
@@ -9,7 +9,7 @@ Building scalable systems, AI-powered applications, and clean developer experien
 
 # About Me
 
-*  AI Engineer & Full-Stack Developer from Pakistan
+*  AI Engineer & Full-Stack Developer
 *  Currently building healthcare applications at scale
 *  Passionate about Backend Architecture & Distributed Systems
 *  Working with LLMs, RAG Pipelines & AI integrations

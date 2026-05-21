@@ -65,24 +65,6 @@ and clean developer experiences.
 
 ---
 
-## 🤖 AI / ML
-
-```txt id="y0y6l9"
-PyTorch • TensorFlow • scikit-learn
-Pandas • NumPy
-LLMs • Prompt Engineering
-RAG Pipelines • Vector Databases
-```
-
-## 📱 Mobile
-
-```txt id="b6rj1x"
-Kotlin • Android SDK • Firebase
-MVVM Architecture • Flutter
-```
-
----
-
 # ⚙️ Current Focus
 
 ```python id="6g4z4f"
@@ -98,12 +80,9 @@ focus = [
 ---
 
 # GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aliabbasnagari&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliabbasnagari\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabbasnagari\&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aliabbasnagari)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aliabbasnagari&layout=compact&theme=tokyonight)
 
 ---
 

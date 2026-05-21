@@ -2,8 +2,7 @@
 ### AI Engineer • Full-Stack Developer • Backend Builder
 
 ```bash id="qo5x0p"
-Building scalable systems, AI-powered applications,
-and clean developer experiences.
+Building scalable systems, AI-powered applications, and clean developer experiences.
 ```
 
 ---
@@ -85,11 +84,13 @@ focus = [
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aliabbasnagari&layout=compact&theme=tokyonight)
 
 ---
-
+## Badges
+[![An image of @aliabbasnagari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aliabbasnagari)](https://holopin.io/@aliabbasnagari)
+---
 # Developer Philosophy
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+
 
 # Fun Fact
 

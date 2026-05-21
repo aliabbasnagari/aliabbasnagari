@@ -1,5 +1,4 @@
-# 👋 Hey, I'm Ali Abbas
-
+Ali Abbas
 ### AI Engineer • Full-Stack Developer • Backend Builder
 
 ```bash id="qo5x0p"
@@ -9,7 +8,7 @@ and clean developer experiences.
 
 ---
 
-# 🚀 About Me
+# About Me
 
 *  AI Engineer & Full-Stack Developer from Pakistan
 *  Currently building healthcare applications at scale
@@ -20,7 +19,7 @@ and clean developer experiences.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### 📱 Mobile Development
 <p>
@@ -98,7 +97,7 @@ focus = [
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliabbasnagari\&show_icons=true)
 
@@ -108,7 +107,7 @@ focus = [
 
 ---
 
-# 🧠 Developer Philosophy
+# Developer Philosophy
 
 > Build things that scale.
 > Keep systems clean.
@@ -117,7 +116,7 @@ focus = [
 
 ---
 
-# ☕ Fun Fact
+# Fun Fact
 
 ```cpp id="2txfwo"
 while(coding)

@@ -106,8 +106,8 @@ while(coding)
 
 # 📫 Connect With Me
 
-* 💼 LinkedIn
-* 🌐 Portfolio
+* 💼 [LinkedIn](https://www.linkedin.com/in/alinagari/)
+* 🌐 [Portfolio](https://aliabbas.cc/)
 * 📧 [alinagarkuz@gmail.com](mailto:alinagarkuz@gmail.com)
 
 ```txt id="2g2u6g"

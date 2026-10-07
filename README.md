@@ -79,9 +79,14 @@ focus = [
 ---
 
 # GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aliabbasnagari&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aliabbasnagari&show_icons=true&hide_border=true&title_color=2DD881&icon_color=2DD881&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabbasnagari&layout=compact&hide_border=true&title_color=2DD881&text_color=c9d1d9&bg_color=0d1117"/>
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aliabbasnagari&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliabbasnagari&theme=dark&hide_border=true&background=0D1117&ring=2DD881&fire=2DD881"/>
+</p>
 
 ---
 ## Badges

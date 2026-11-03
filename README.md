@@ -80,8 +80,8 @@ focus = [
 
 # GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-psi-ten-57.vercel.app/api?username=aliabbasnagari&show_icons=true&hide_border=true&title_color=2DD881&icon_color=2DD881&text_color=c9d1d9&bg_color=0d1117"/>
-  <img width="42%" src="https://github-readme-stats-psi-ten-57.vercel.app/api/top-langs/?username=aliabbasnagari&layout=compact&hide_border=true&title_color=2DD881&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aliabbasnagari&show_icons=true&hide_border=true&title_color=2DD881&icon_color=2DD881&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabbasnagari&layout=compact&hide_border=true&title_color=2DD881&text_color=c9d1d9&bg_color=0d1117"/>
 </p>
 
 <p align="center">
